@@ -1,4 +1,4 @@
-package ds.dto;
+package pds.dto;
 
 import javax.validation.constraints.Size;
 

@@ -1,4 +1,4 @@
-package ds.service;
+package pds.service;
 
 import br.com.starcode.jerichoselector.jerQuery;
 import br.com.starcode.parccser.ParserException;
@@ -6,7 +6,7 @@ import com.google.inject.Inject;
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.request.GetRequest;
-import ds.models.Article;
+import pds.models.Article;
 import net.htmlparser.jericho.Element;
 import org.slf4j.Logger;
 

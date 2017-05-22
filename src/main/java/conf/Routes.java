@@ -5,7 +5,7 @@ package conf;
 import ninja.AssetsController;
 import ninja.Router;
 import ninja.application.ApplicationRoutes;
-import ds.controllers.ApplicationController;
+import pds.controllers.ApplicationController;
 
 public class Routes implements ApplicationRoutes {
 

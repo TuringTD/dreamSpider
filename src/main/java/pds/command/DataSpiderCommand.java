@@ -1,10 +1,10 @@
-package ds.command;
+package pds.command;
 
 import com.google.inject.Injector;
-import ds.base.AbstractCliCommand;
-import ds.dao.ArticleDao;
-import ds.models.Article;
-import ds.service.SpiderService;
+import pds.base.AbstractCliCommand;
+import pds.dao.ArticleDao;
+import pds.models.Article;
+import pds.service.SpiderService;
 import org.slf4j.Logger;
 
 import java.util.Iterator;

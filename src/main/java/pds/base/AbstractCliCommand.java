@@ -1,4 +1,4 @@
-package ds.base;
+package pds.base;
 
 import com.google.inject.Injector;
 import ninja.utils.NinjaMode;

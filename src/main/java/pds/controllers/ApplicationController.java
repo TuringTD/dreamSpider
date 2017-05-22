@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package ds.controllers;
+package pds.controllers;
 
 import com.google.inject.Inject;
-import ds.dao.GenericDao;
-import ds.models.Article;
+import pds.dao.GenericDao;
+import pds.models.Article;
 import ninja.Result;
 import ninja.Results;
 

@@ -1,6 +1,6 @@
-package ds.dto;
+package pds.dto;
 
-import ds.models.Article;
+import pds.models.Article;
 
 import java.util.List;
 

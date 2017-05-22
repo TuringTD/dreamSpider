@@ -1,12 +1,11 @@
-package ds.dao;
+package pds.dao;
 
 import com.google.inject.Inject;
 import com.google.inject.Provider;
 import com.google.inject.persist.Transactional;
-import ds.dto.ArticlesDto;
-import ds.models.Article;
+import pds.dto.ArticlesDto;
+import pds.models.Article;
 import ninja.jpa.UnitOfWork;
-import org.apache.commons.lang.StringUtils;
 
 import javax.persistence.*;
 import java.util.List;

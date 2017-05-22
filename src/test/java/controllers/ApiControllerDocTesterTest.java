@@ -17,7 +17,7 @@
 package controllers;
 
 
-import ds.controllers.ApplicationController;
+import pds.controllers.ApplicationController;
 import org.junit.Test;
 
 import ninja.NinjaDocTester;
